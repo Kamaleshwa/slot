@@ -61,51 +61,51 @@ Execute the program using runserver command.
     </style>
 </head>
 <body>
-    <img src="logo.png">
+    <img src="c:\Users\admin\Pictures\capcut\logo.png">
     <div class="center-text">
         <p><strong>SLOT TIME TABLE - KAMALESHWAR (212223240063) </strong></p>
     </div>
     <table>
         <tr>
-            <th colspan="1" bgcolor="Yellow">Day/Time</th>
-            <th colspan="1" bgcolor="Yellow">Monday</th>
-            <th colspan="1" bgcolor="Yellow">Tuesday</th>
-            <th colspan="1" bgcolor="Yellow">Wednesday</th>
-            <th colspan="1" bgcolor="Yellow">Thursday</th>
-            <th colspan="1" bgcolor="Yellow">Friday</th>
+            <th colspan="1" bgcolor="red">Day/Time</th>
+            <th colspan="1" bgcolor="red">Monday</th>
+            <th colspan="1" bgcolor="red">Tuesday</th>
+            <th colspan="1" bgcolor="red">Wednesday</th>
+            <th colspan="1" bgcolor="red">Thursday</th>
+            <th colspan="1" bgcolor="red">Friday</th>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">8-10</th>
-            <th colspan="3" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
+            <th colspan="1" bgcolor="blue">8-10</th>
+            <th colspan="3" bgcolor="pink">FREE SLOT</th>
+            <th colspan="1" bgcolor="pink">PHY</th>
+            <th colspan="1" bgcolor="pink">CHE</th>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">10-12</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
-            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
+            <th colspan="1" bgcolor="blue">10-12</th>
+            <th colspan="1" bgcolor="pink">GER</th>
+            <th colspan="1" bgcolor="pink">FREE SLOT</th>
+            <th colspan="1" bgcolor="pink">FWAD</th>
+            <th colspan="1" bgcolor="pink">FWAD</th>
+            <th colspan="1" bgcolor="pink">PHY</th>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">12-1</th>
-            <th colspan="5" bgcolor="Cyan">LUNCH</th>
+            <th colspan="1" bgcolor="blue">12-1</th>
+            <th colspan="5" bgcolor="pink">LUNCH</th>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">1-3</th>
-            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">SS</th>
+            <th colspan="1" bgcolor="blue">1-3</th>
+            <th colspan="2" bgcolor="pink">FREE SLOT</th>
+            <th colspan="1" bgcolor="pink">MAT</th>
+            <th colspan="1" bgcolor="pink">MAT</th>
+            <th colspan="1" bgcolor="pink">SS</th>
         </tr>
         </tr>
         <tr>
-            <th colspan="1" bgcolor="Yellow">3-5</th>
-            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
+            <th colspan="1" bgcolor="blue">3-5</th>
+            <th colspan="2" bgcolor="pink">FREE SLOT</th>
+            <th colspan="1" bgcolor="pink">GER</th>
+            <th colspan="1" bgcolor="pink">CHE</th>
+            <th colspan="1" bgcolor="pink">FWAD</th>
         </tr>
     </table>
 
@@ -151,7 +151,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![image](https://github.com/Kamaleshwa/slot/assets/144980199/7618a153-a204-4937-9121-36e336939c56)
+![image](https://github.com/Kamaleshwa/slot/assets/144980199/5931d58b-3f2e-4c29-b7fd-9de69f2d8e4c)
 
 
 
