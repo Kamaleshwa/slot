@@ -24,15 +24,16 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+
 <!DOCTYPE html>
 <html>
 <head>
     <title>SLOT TIME TABLE - KAMALESHWAR (212223240063)</title>
     <style>
-        table {
-            border-collapse: collapse;
-            width: 80%;
-            margin: 5px auto;
+            table {
+                border-collapse: collapse;
+                width: 80%;
+                margin: 5px auto;
         }
 
         table + table {
@@ -58,11 +59,13 @@ Execute the program using runserver command.
             font-weight: bold;
             font-size: 30px;
         }
+        ```
     </style>
-</head>
-<body>
+ </head>
+ <body>
     <img src="c:\Users\admin\Pictures\capcut\logo.png">
     <div class="center-text">
+        
         <p><strong>SLOT TIME TABLE - KAMALESHWAR (212223240063) </strong></p>
     </div>
     <table>
@@ -148,7 +151,7 @@ Execute the program using runserver command.
     </table>
 </body>
 </html>
-
+```
 
 ## OUTPUT
 ![image](https://github.com/Kamaleshwa/slot/assets/144980199/5931d58b-3f2e-4c29-b7fd-9de69f2d8e4c)
